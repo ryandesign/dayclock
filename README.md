@@ -1,6 +1,7 @@
 # Day Clock
 
 ![](<screenshot.png>)
+![](<photo.jpg>)
 
 Day Clock is a simple web app that lets you repurpose an old smart phone, tablet, or computer to display the current time, the part of the day, the day of the week, and the date. Just point your device's web browser to:
 
